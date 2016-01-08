@@ -1,4 +1,4 @@
-# React + Readux 示例 ： 交通灯
+# React + Redux 示例 ： 交通灯
 Based on the repo: https://github.com/boycgit/demos/tree/master/traffic
 
 TODOS: 
