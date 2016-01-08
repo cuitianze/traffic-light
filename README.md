@@ -1,4 +1,9 @@
 # React + Readux 示例 ： 交通灯
+Based on the repo: https://github.com/boycgit/demos/tree/master/traffic
+
+TODOS: 
+  * Move to Express.js
+  * More Complex Traffic-Light
 
 效果图：
 
