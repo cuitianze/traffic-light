@@ -15,8 +15,8 @@ TODOS:
 ## 如何运行
 
 ```js
-tnpm install
-tnpm start 
+npm install
+npm start 
 
 ```
 
