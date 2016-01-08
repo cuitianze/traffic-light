@@ -1,6 +1,6 @@
 {
-  "name": "traffic",
-  "version": "1.0.0",
+  "name": "traffic-light",
+  "version": "0.0.1",
   "description": "traffic light demo,powered by react & redux",
   "main": "index.js",
   "directories": {
@@ -10,14 +10,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js & nodemon --harmony index.js"
   },
-  "author": "boyc",
+  "author": "cuitianze",
   "license": "ISC",
   "dependencies": {
     "classname": "0.0.0",
     "classnames": "~2.2.1",
-    "koa": "~1.1.2",
-    "koa-handlebars": "~0.5.7",
-    "koa-router": "~5.3.0",
     "react": "~0.14.3",
     "react-dom": "~0.14.3",
     "react-redux": "~4.0.0",
@@ -33,6 +30,7 @@
     "extract-text-webpack-plugin": "~0.9.1",
     "less": "~2.5.3",
     "less-loader": "~2.2.2",
+    "redux-devtools": "^3.0.1",
     "style-loader": "~0.13.0",
     "webpack": "~1.12.9",
     "webpack-dev-server": "~1.14.0",
